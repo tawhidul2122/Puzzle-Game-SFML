@@ -1,2 +1,1 @@
-# beyond
-cs50 intro to git and github 
+### head first c excercise solutions
